@@ -212,7 +212,7 @@ h1, h2 {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.team-name, .portfolio-title {
+.team-name, .portfolio-title, .features-title{
     margin-bottom: 8px;
 }
 .team {
