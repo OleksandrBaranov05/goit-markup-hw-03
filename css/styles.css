@@ -1,0 +1,122 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #fff;
+    color: #434455;
+}
+ul {
+    list-style: none;
+    text-decoration: none;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+}
+.logo-web {
+    color: #2e2f42;
+}
+.nav-list .nav-link {
+    text-decoration: none;
+    font-weight: 500;
+    color: #2e2f42;
+}
+.nav-link:hover, .nav-link:focus  {
+    color: #404bbf;
+}
+.contact-info {
+    font-style: normal;
+}
+.contact-link {
+    text-decoration: none;
+    color: #434455;
+    cursor: pointer;
+}
+.contact-link:hover, .contact-link:focus  {
+    color: #404bbf;
+}
+h1, h2 {
+    text-align: center;
+    font-weight: 700;
+    color: #2e2f42;
+}
+.hero {
+    background-color: rgb(46, 47, 66);
+}
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    color: #fff;
+    letter-spacing: 0.02em;
+}
+.btn {
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+.btn:hover, .btn:focus{
+    background-color: #404bbf;
+}
+.section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize
+    
+}
+.team-member {
+    background-color: #ffffff;
+}
+.features-title, .team-name, .portfolio-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.features-text, .team-role, .portfolio-category {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.team-name, .team-role {
+
+}
+.team {
+    background-color: rgb(244, 244, 253);
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5 ;
+}
+.footer-text, .logo-web-footer  {
+    color: #f4f4fd;
+}
+.footer {
+    background-color: rgb(46, 47, 66);
+}
