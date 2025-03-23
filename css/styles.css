@@ -157,7 +157,7 @@ h1, h2 {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.features {
+.features, .portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -212,7 +212,7 @@ h1, h2 {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.team-name{
+.team-name, .portfolio-title {
     margin-bottom: 8px;
 }
 .team {
@@ -250,10 +250,9 @@ h1, h2 {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.footer-container {
+.footer-logo{
     display: inline-block;
     margin-bottom: 16px;
-    
 }
 .footer-text {
     max-width: 264px;
